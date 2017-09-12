@@ -6,3 +6,5 @@ Expected File Structure:<br>
   |-README.md<br>
   |- Lab0.docx<br>
   |- <yourname>.txt<br>
+
+I followed the (A) instruction from the wyocourses PDF on merging the branches
